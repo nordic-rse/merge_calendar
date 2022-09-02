@@ -1,2 +1,3 @@
-# merge_calendar
-Fetches CodeRefinery and Nordic-RSE calendars and merges them
+# Merge Calendar
+
+Fetches CodeRefinery and Nordic-RSE calendars and merges them.
